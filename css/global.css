@@ -1,0 +1,26 @@
+.error{
+    color: red;
+    margin-top: 0.313rem;
+    display: block;
+    margin-left: 3.375rem;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 1.188rem;
+  }
+
+  .msg {
+    display: block;
+    margin-bottom: 10px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.563rem;
+    border-color: black;
+    color: #22c53d;
+    margin-top: 0.313rem;
+    margin-bottom: 1.5rem;
+    margin-left: 16.438rem;
+  }
